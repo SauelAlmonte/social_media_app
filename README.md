@@ -10,7 +10,6 @@ app with full-stack functionality.
 ## Live Demo
 
 - **Frontend**: [View Live Frontend]()
-- **Backend**: [View Live Backend]()
 
 ## Features
 
