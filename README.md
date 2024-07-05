@@ -32,10 +32,12 @@ app with full-stack functionality.
 
 - **React Native**: [React.js](https://react.dev/): A framework for building
   native apps using React.
-- **Expo**: A toolset for simplifying React Native development.
+- **Expo**: A toolset for simplifying React Native development and deployment.
 - **React Navigation**: A library for routing and navigation in React Native
   apps.
 - **Styled-Components**: For writing CSS-in-JS and creating stylish components.
+- **NativeWind**: Utility-first styling framework for React Native inspired by
+  Tailwind CSS.
 
 ### Backend
 
