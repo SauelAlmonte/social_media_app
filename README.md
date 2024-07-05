@@ -9,7 +9,7 @@ app with full-stack functionality.
 
 ## Live Demo
 
-- **Frontend**: [View Live Frontend]()
+[View Live Frontend]()
 
 ## Features
 
