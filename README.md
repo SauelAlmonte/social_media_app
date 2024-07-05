@@ -1,50 +1,53 @@
-# Welcome to your Expo app 👋
+# React Native Full Stack App
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+## Introduction
 
-## Get started
+Welcome to my React Native Full Stack App! This project is designed to
+demonstrate my ability to build a comprehensive mobile application using React
+Native. By leveraging modern technologies, I have created a robust and scalable
+app with full-stack functionality.
 
-1. Install dependencies
+## Live Demo
 
-   ```bash
-   npm install
-   ```
+- **Frontend**: [View Live Frontend]()
+- **Backend**: [View Live Backend]()
 
-2. Start the app
+## Features
 
-   ```bash
-    npx expo start
-   ```
+- **User Authentication**: Secure login and registration system using Appwrite.
+- **API Integration**: Fetch and display data from external APIs.
+- **State Management**: Efficiently manage app state with React Context API.
+- **Navigation**: Seamless navigation with React Navigation.
+- **Styling**: Beautiful and responsive UI using styled-components.
+- **Backend Integration**: Utilize Appwrite for data storage and retrieval.
+- **Deployment**: Deployed on both iOS and Android platforms.
 
-In the output, you'll find options to open the app in a
+## Technologies Used
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+<div>
+    <img src="image-7.png" alt="react.js" width="100px" height="40px"/>
+    <img src="image.png" alt="material-ui" width="100px" height="40px"/>
+</div>
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+### Frontend
 
-## Get a fresh project
+- **React Native**: [React.js](https://react.dev/): A framework for building
+  native apps using React.
+- **Expo**: A toolset for simplifying React Native development.
+- **React Navigation**: A library for routing and navigation in React Native
+  apps.
+- **Styled-Components**: For writing CSS-in-JS and creating stylish components.
 
-When you're ready, run:
+### Backend
 
-```bash
-npm run reset-project
-```
+<div>
+    <img src="image-11.png" alt="nodejs-expressjs" width="100px" height="40px"/>
+    <img src="image-12.png" alt="mongodb" width="100px" height="40px"/>
+</div>
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+- **Appwrite**: An open-source backend server for web, mobile, and flutter
+  developers. It handles authentication, databases, storage, and more.
 
-## Learn more
+## License
 
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+This project is licensed under the MIT License. See the LICENSE file for details
