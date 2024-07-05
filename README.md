@@ -24,8 +24,9 @@ app with full-stack functionality.
 ## Technologies Used
 
 <div>
-    <img src="image-7.png" alt="react.js" width="100px" height="40px"/>
-    <img src="image.png" alt="material-ui" width="100px" height="40px"/>
+    <img src="./assets/tech_logos/appwrite.svg" alt="react.js" width="100px" height="40px"/>
+    <img src="./assets/tech_logos/nativewind.svg" alt="material-ui" width="100px" height="40px"/>
+    <img src="./assets/tech_logos/react_native.svg" alt="material-ui" width="100px" height="40px"/>
 </div>
 
 ### Frontend
